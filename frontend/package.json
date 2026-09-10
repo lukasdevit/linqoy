@@ -37,6 +37,6 @@
     "eslint-config-next": "16.2.6",
     "react-doctor": "^0.2.11",
     "typescript": "^6",
-    "vitest": "^4.1.7"
+    "vitest": "^5.0.0"
   }
 }
